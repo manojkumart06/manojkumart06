@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 <h3 align="center">A Software Engineer with 2+ years of experience, proficient in designing, coding, and maintaining dynamic web applications :)</h3>
-<a href="https://manojkumart06.github.io/Portfoliosite/" target="blank"><img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQFY2LKpfIIWVg/feedshare-shrink_2048_1536/0/1673026228828?e=2147483647&v=beta&t=-HntsFkKhI4f1jM-cWQ9eJSdwoPMBCcidOoKNyyRFdw"
+<a href="https://manojkumart06.github.io/Portfoliosite/" target="blank"><img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQFY2LKpfIIWVg/feedshare-shrink_2048_1536/0/1673026228828?e=2147483647&v=beta&t=-HntsFkKhI4f1jM-cWQ9eJSdwoPMBCcidOoKNyyRFdw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumart06&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj" /> </p>
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking for job opportunities on **Full stack/Frontend development**
 
-- 👨‍💻 All of my projects are available at **https://github.com/manojkumart06?tab=repositories**
+- 👨‍💻 All of my projects are available at -> <a href="https://github.com/manojkumart06?tab=repositories" target="blank"><img align="center" alt="Coding" width="110" src="https://hypercube.co.nz/wp-content/uploads/2016/01/click-here.jpg"> 
 
 - 📫 How to reach me **manojkumartt06@gmail.com**
 
