@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer who loves creating projects :)</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkhatri434&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkhatri434" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumart06&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj" /> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **Resturant Web App**
 
-- 🌱 I’m currently learning **ReactJS and DSA**
+- 🌱 I’m currently learning **Next.js and other frameworks**
 
-- 👯 I’m looking for job opportunities on **front-end development**
+- 👯 I’m looking for job opportunities on **Full stack/Frontend development**
 
-- 👨‍💻 All of my projects are available at [https://tusharkhatri.netlify.app/](https://tusharkhatri.netlify.app/)
+- 👨‍💻 All of my projects are available at https://github.com/manojkumart06?tab=repositories
 
-- 📫 How to reach me **tusharkhatri8193@gmail.com**
+- 📫 How to reach me **manojkumartt06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
